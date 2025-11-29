@@ -1,0 +1,8 @@
+{
+  "name": "Copy of heckathon",
+  "description": "A mobile-first solution to reduce food loss in Bangladesh using predictive analytics, weather integration, and crop management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
